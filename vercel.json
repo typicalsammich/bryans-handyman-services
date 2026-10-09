@@ -1,0 +1,1 @@
+{"rewrites":[{"source":"/services/:slug/","destination":"/index.html"},{"source":"/areas/:slug/","destination":"/index.html"}]}
